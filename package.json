@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-bro-rollup",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "an opinionated babel setup for rollup",
   "main": "index.js",
   "scripts": {
